@@ -1,3 +1,4 @@
 # Cricket_Model
 
-Predicting the winner of T20 Match!
+Build the best ML model using boosting algorithms to accurately predict “Winning Team” for a
+T20 match
